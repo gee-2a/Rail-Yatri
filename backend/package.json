@@ -1,0 +1,8 @@
+{
+  "name": "railyatri-backend",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix express_app run dev",
+    "start": "npm --prefix express_app run start"
+  }
+}
